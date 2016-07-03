@@ -1,0 +1,1039 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="google-site-verification" content="VaT09od_m69q77tbFHjXppJTV8j93dzeiYX7O02gdoQ" />
+  <meta name="msvalidate.01" content="8429C9952F37B2B65CC96117F6603B67" />
+  <meta name="MobileOptimized" content="width" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="HandheldFriendly" content="true" />
+  <meta name="theme-color" content="#333333" />
+  <link rel="apple-touch-icon" href="/sites/all/themes/zero_hedge/images/favicon.png" />
+  <title>Zero Hedge | On a long enough timeline the survival rate for everyone drops to zero</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Leading news site for global finance, economics, market, and political analysis." />
+<meta name="keywords" content="Zero Hedge,Zerohedge,Finance,Economics,Markets,Politics,Analysis" />
+<meta name="dcterms.date" content="2013-01-07T00:00:00Z" />
+<link rel="canonical" href="http://www.zerohedge.com/" />
+<meta name="revisit-after" content="1 day" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+          <link type="text/css" rel="stylesheet" id="arrowchat_css" media="all" href="/arrowchat/external.php?type=css" charset="utf-8" />
+      <script type="text/javascript" src="/arrowchat/includes/js/jquery.js"></script>
+      <script type="text/javascript" src="/arrowchat/includes/js/jquery-ui.js"></script>
+            <script type="text/javascript" src="//native.sharethrough.com/assets/sfp.js"></script>
+        <script type="text/javascript" async src="//static.addtoany.com/menu/page.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/1.3.5/socket.io.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.1/jquery.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/postscribe/1.4.0/postscribe.min.js"></script>
+
+    <script type="text/javascript">
+     var $jq = jQuery.noConflict(true);
+    </script>
+  <script type="text/javascript" src="http://www.zerohedge.com/sites/default/files/js/js_86f72284602c30413cdbe60e10c932b3.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","fivestar":{"titleUser":"Your rating: ","titleAverage":"Average: ","feedbackSavingVote":"Saving your vote...","feedbackVoteSaved":"Your vote has been saved.","feedbackDeletingVote":"Deleting your vote...","feedbackVoteDeleted":"Your vote has been deleted."},"user_relationships_ui":{"loadingimage":"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/images\/loadingAnimation.gif","savingimage":"\/sites\/all\/modules\/user_relationships\/user_relationships_ui\/images\/savingimage.gif","position":{"position":"absolute","left":"0","top":"0"}},"adTest":null,"adSwitch":0,"isProduction":true});
+//--><!]]>
+</script>
+  <link type="text/css" rel="stylesheet" media="all" href="http://www.zerohedge.com/sites/default/files/css/css_58b8d3b6e8ea88a79ddc56be42e3e1c8.css" />
+</head>
+<body class="sidebar-left sidebar-right">
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T6SHNP" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T6SHNP');</script>
+<!-- End Google Tag Manager -->
+
+  <div id="mobile-menu-container">
+    <section id="mobile-search-container">
+      <div class="block block-zh_glue" id="block-zh_glue-mobile_search">
+    <div class="content"><form accept-charset="UTF-8"
+      action="/search/apachesolr_search/"
+      class="mobile-search-form"
+      id="mobile-search-form"
+      method="post"
+      size="28">
+  <div class="input-wrapper">
+    <input
+      class="form-text"
+      id="mobile-search-input"
+      maxlength="255"
+      name="keys"
+      size="28"
+      type="text"
+      value=""
+      placeholder="search zerohedge"
+    />
+  </div>
+  <input
+    class="form-submit"
+    id="mobile-search-submit"
+    size="32"
+    type="submit"
+  />
+</form></div></div>
+    </section>
+    <nav id="mobile-menu">
+      <ul class="links primary-links"><li class="menu-10984 first"><a href="/user/login" title="">login</a></li>
+<li class="menu-186 active-trail active"><a href="/" title="ZeroHedge" class="active">home</a></li>
+<li class="menu-187"><a href="/contributing-editors" title="Contributor Articles">contributors</a></li>
+<li class="menu-6483"><a href="http://www.cafepress.com/zerohedge" title="">store</a></li>
+<li class="menu-10167"><a href="/article/zero-hedge-logo-tee" title="">zh-tshirt</a></li>
+<li class="menu-7335"><a href="/taxonomy_vtn/voc/3" title="">glossary</a></li>
+<li class="menu-5895"><a href="/archive" title="">archive</a></li>
+<li class="menu-10168"><a href="/about" title="">manifesto</a></li>
+<li class="menu-6484"><a href="http://feeds.feedburner.com/zerohedge/feed" title="">rss</a></li>
+<li class="menu-9588 last"><a href="/donate" title="Support ZeroHedge">donate</a></li>
+</ul>    </nav>
+  </div>
+
+  <div id="page">
+    <div id="header-container">
+      <header id="site-header">
+        <a id="mmenu-button"><span></span></a>
+        <a href="http://www.zerohedge.com" class="header-logo">
+            <img class="logo-mobile" alt="ZeroHedge" src="/sites/all/themes/zero_hedge/images/zh_logo_mobile.svg">
+            <img class="logo-tablet" alt="ZeroHedge" src="/sites/all/themes/zero_hedge/images/zh_logo_tablet.svg">
+            <img class="logo-desktop" alt="ZeroHedge" src="/sites/all/themes/zero_hedge/images/zh_logo_desktop.svg">
+        </a>
+        <nav class="desktop-menu">
+          <ul class="links primary-links"><li class="menu-10984 first"><a href="/user/login" title="">login</a></li>
+<li class="menu-186 active-trail active"><a href="/" title="ZeroHedge" class="active">home</a></li>
+<li class="menu-187"><a href="/contributing-editors" title="Contributor Articles">contributors</a></li>
+<li class="menu-6483"><a href="http://www.cafepress.com/zerohedge" title="">store</a></li>
+<li class="menu-10167"><a href="/article/zero-hedge-logo-tee" title="">zh-tshirt</a></li>
+<li class="menu-7335"><a href="/taxonomy_vtn/voc/3" title="">glossary</a></li>
+<li class="menu-5895"><a href="/archive" title="">archive</a></li>
+<li class="menu-10168"><a href="/about" title="">manifesto</a></li>
+<li class="menu-6484"><a href="http://feeds.feedburner.com/zerohedge/feed" title="">rss</a></li>
+<li class="menu-9588 last"><a href="/donate" title="Support ZeroHedge">donate</a></li>
+</ul>        </nav>
+      </header>
+    </div>
+
+
+    <div class="page-inner">
+      <div id="ad-header" class="ad-container ad-banner-horizontal"></div>
+      <div id="ad-mobile-leaderboard"></div>
+      <div class="view view-featured-posts view-id-featured_posts view-display-id-default view-dom-id-2">
+        
+    
+    
+            <div class="slider view-content">
+              <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article class="node node-type-blog node-teaser node-nid-564971 no-image">
+  <div class="teaser-content">
+    <div class="picture">
+  <a href="/users/srsrocco" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-25586.png" alt="SRSrocco&#039;s picture" title="SRSrocco&#039;s picture"  /></a></div>
+    <div class="teaser-header">
+              <h3 class="title">
+          <a href="/news/2016-07-01/why-collapse-us-economic-financial-system-has-accelerated">
+            Why The Collapse Of The U.S. Economic &amp; FInancial System Has Accelerated          </a>
+        </h3>
+            <div class="teaser-submitted">
+        <span class="teaser-submitted_username">
+          by <a href="/users/srsrocco" title="View user profile.">SRSrocco</a>        </span>
+        <span class="teaser-submitted_datetime">
+          - <span title="Jul 1, 2016 10:11 PM">Jul 1, 2016 10:11 PM</span>        </span>
+      </div>
+    </div>
+    <div class="teaser-text">
+      <p>The collapse of the U.S. economic and financial system accelerated this year, thus pushing the country closer to a third-world status.</p>
+
+
+    </div>
+  </div>
+  <div class="teaser-details">
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article class="node node-type-blog node-teaser node-nid-565052 no-image">
+  <div class="teaser-content">
+    <div class="picture">
+  <a href="/users/goldcore" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-44273.jpg" alt="GoldCore&#039;s picture" title="GoldCore&#039;s picture"  /></a></div>
+    <div class="teaser-header">
+              <h3 class="title">
+          <a href="/news/2016-07-03/gold-silver-best-performing-assets-h1-2016-%E2%80%93-26-and-38">
+            Gold, Silver Best Performing Assets In H1, 2016 – Up 26% and 38%          </a>
+        </h3>
+            <div class="teaser-submitted">
+        <span class="teaser-submitted_username">
+          by <a href="/users/goldcore" title="View user profile.">GoldCore</a>        </span>
+        <span class="teaser-submitted_datetime">
+          - <span title="Jul 3, 2016 4:39 AM">Jul 3, 2016 4:39 AM</span>        </span>
+      </div>
+    </div>
+    <div class="teaser-text">
+      <p><span>Gold and silver are up 6% and 11% respectively since the seismic Brexit vote led to turmoil on global markets. </span></p>
+
+
+    </div>
+  </div>
+  <div class="teaser-details">
+      </div>
+</article>
+  </div>
+  <div class="views-row views-row-3 views-row-odd views-row-last">
+    <article class="node node-type-blog node-teaser node-nid-564991 no-image">
+  <div class="teaser-content">
+    <div class="picture">
+  <a href="/users/phoenix-capital-research" title="View user profile."><img src="http://www.zerohedge.com/sites/default/files/pictures/picture-20289.jpg" alt="Phoenix Capital Research&#039;s picture" title="Phoenix Capital Research&#039;s picture"  /></a></div>
+    <div class="teaser-header">
+              <h3 class="title">
+          <a href="/news/2016-07-02/greatest-misallocation-capital-bubble-financial-history">
+            The Greatest Misallocation of Capital (BUBBLE) in Financial History          </a>
+        </h3>
+            <div class="teaser-submitted">
+        <span class="teaser-submitted_username">
+          by <a href="/users/phoenix-capital-research" title="View user profile.">Phoenix Capital...</a>        </span>
+        <span class="teaser-submitted_datetime">
+          - <span title="Jul 2, 2016 10:09 AM">Jul 2, 2016 10:09 AM</span>        </span>
+      </div>
+    </div>
+    <div class="teaser-text">
+      <p>The big picture is that the financial world has allocated capital&hellip; trillions of dollars of capital, based on Central Banks trying to corner the bond market.</p>
+<p>&nbsp;</p>
+
+
+    </div>
+  </div>
+  <div class="teaser-details">
+      </div>
+</article>
+  </div>
+        </div>
+    
+    
+    
+    
+    
+    
+</div>       <main>
+
+        <section class="article-list">
+                    <section class='messages-holder'>
+                      </section>
+          <div class="tabs"></div>
+          <div class="view view-zh-frontpage view-id-zh_frontpage view-display-id-page_1 view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+              <div class="views-row views-row-1 views-row-odd views-row-first">
+      <article class="node sticky node-type-story node-teaser node-nid-565065">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/senator-admits-fbi-about-ask-putin-his-copies-hillarys-emails">Senator Admits The FBI Is &quot;About To Ask Putin For His Copies Of Hillary&#039;s Emails&quot;</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/senator-admits-fbi-about-ask-putin-his-copies-hillarys-emails" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user3303/imageroot/20160703_putin.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="121" /></a>    </div>
+    <span class="teaser-text">
+      <p><em>“It <strong>has gotten so bad, the FBI is on the verge of asking Vladimir Putin</strong> for his copies of Hillary’s emails...”</em></p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565065 created=1467564448></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 12:47 PM">Jul 3, 2016 12:47 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/senator-admits-fbi-about-ask-putin-his-copies-hillarys-emails#comments" title="Jump to the first comment of this posting.">210</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-2 views-row-even">
+      <article class="node sticky node-type-story node-teaser node-nid-565013">
+  <h2 class="title teaser-title"><a href="/news/2016-07-02/un-official-accidentally-crushes-own-throat-right-testifying-against-hillary-clinton">U.N. Official &#039;Accidentally&#039; Crushes Own Throat Right Before Testifying Against Hillary Clinton</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-02/un-official-accidentally-crushes-own-throat-right-testifying-against-hillary-clinton" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user5/imageroot/john ashe.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="113" /></a>    </div>
+    <span class="teaser-text">
+      <p><strong>John Ashe, a former President of the United Nations General Assembly, was found dead Wednesday just a few days before being set to testify against Clinton in a corruption case</strong>. While the U.N. claimed that he had died from a heart attack, local police officers in Dobbs Ferry, New York, later disputed that claim, saying instead that he <em><span><strong>died from a workout accident that crushed his throat</strong></span></em>.</p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565013 created=1467512100></span></span></li>
+<li class="link-created"><span><span title="Jul 2, 2016 10:15 PM">Jul 2, 2016 10:15 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-02/un-official-accidentally-crushes-own-throat-right-testifying-against-hillary-clinton#comments" title="Jump to the first comment of this posting.">382</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-3 views-row-odd">
+      <article class="node node-type-story node-teaser node-nid-565078">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/religion-peace">Religion Of Peace?</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/religion-peace" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user3303/imageroot/20160703_ramadan.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="136" /></a>    </div>
+    <span class="teaser-text">
+      <p>Presented with no racist, cynical, divisive, unpatriotic, skeptical, fiction-peddling comments...</p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565078 created=1467577800></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 4:30 PM">Jul 3, 2016 4:30 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/religion-peace#comments" title="Jump to the first comment of this posting.">7</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-4 views-row-even">
+      <article class="node node-type-story node-teaser node-nid-565076 banner-image">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/edward-snowden-summarizes-americas-choices-one-tweet">Edward Snowden Summarizes America&#039;s Choices (In One Tweet)</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/edward-snowden-summarizes-americas-choices-one-tweet"><img src="http://www.zerohedge.com/sites/default/files/images/user3303/imageroot/20160628_snowden.jpg" alt="" title="" width="847" height="93" /></a>    </div>
+    <span class="teaser-text">
+      
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565076 created=1467576300></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 4:05 PM">Jul 3, 2016 4:05 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/edward-snowden-summarizes-americas-choices-one-tweet#comments" title="Jump to the first comment of this posting.">34</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-5 views-row-odd">
+      <article class="node node-type-story node-teaser node-nid-565082">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/are-we-living-riskless-world-deutsche-asks">Are We Living In &quot;A Riskless World&quot;, Deutsche Asks</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/are-we-living-riskless-world-deutsche-asks" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user5/imageroot/fig 1 EU SXXR.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="177" /></a>    </div>
+    <span class="teaser-text">
+      <p>"Who of the big boys of central banking can realistically make  a difference here is unclear to us. <strong>The Fed was caught wrong-footed in  all of this, between domestic news </strong>(weak non-farms) to international. The ECB and BOJ are  tapped-out; as in, their actions at this point are delivering more harm  than benefit (underperforming equity and credit markets, lower credit  issuance, substantial pressure on bank equities). In China, authorities are already dealing with the consequences of  reopening the credit spigot earlier this year that reinforced concerns  of a credit bubble popping there."</p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565082 created=1467574717></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 3:38 PM">Jul 3, 2016 3:38 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/are-we-living-riskless-world-deutsche-asks#comments" title="Jump to the first comment of this posting.">6</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-6 views-row-even">
+      <article class="node node-type-story node-teaser node-nid-565072">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/steen-jakobsen-exposes-policymakers-comical-ali-strategy">Steen Jakobsen Exposes The Policymakers&#039; &quot;Comical Ali&quot; Strategy</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/steen-jakobsen-exposes-policymakers-comical-ali-strategy" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user3303/imageroot/20160703_comicalali.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="102" /></a>    </div>
+    <span class="teaser-text">
+      <p>The UK will be the largest country in population by 2030 in Europe, it has has the biggest military might and the single largest concentration of capital markets and talent outside the US - furthermore the UK runs a massive deficit with Europe, so<em><strong> if the European leaders want a future Europe/NATO/EA without active participation by the UK military, capital markets, consumer demand, and deficit then please carry on acting like a bunch of cry babies.</strong></em></p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565072 created=1467573300></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 3:15 PM">Jul 3, 2016 3:15 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/steen-jakobsen-exposes-policymakers-comical-ali-strategy#comments" title="Jump to the first comment of this posting.">9</a></li>
+</ul>      </section>
+</article>
+    </div>
+          <div class="ad-mobile-frontpage views-row ad-tablet"></div>
+            <div class="views-row views-row-7 views-row-odd">
+      <article class="node node-type-story node-teaser node-nid-565077">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/leading-uk-pm-candidates-differ-greatly-how-quickly-invoke-article-50">Leading UK PM Candidates Differ Greatly On How Quickly To Invoke Article 50</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/leading-uk-pm-candidates-differ-greatly-how-quickly-invoke-article-50" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user3303/imageroot/20160703_may1.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="129" /></a>    </div>
+    <span class="teaser-text">
+      <p>Five candidates are vying to succeed Cameron as Conservative Party leader and Prime Minister, and the field will be<a href="http://www.reuters.com/article/us-britain-eu-politics-idUSKCN0ZJ0EP?feedType=RSS&amp;feedName=worldNews&amp;utm_source=Twitter&amp;utm_medium=Social&amp;utm_campaign=Feed%3A+Reuters%2FworldNews+%28Reuters+World+News%29" rel="nofollow"> narrowed down to two</a> by the party's leaders over the summer before a winner is selected by  September 9. The speed in which Article 50 is invoked will depend in  large part on who is selected to lead the UK into the future, and until  then, the financial markets will have to continue to completely guess as  to how this will ultimately play out.</p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565077 created=1467571542></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 2:45 PM">Jul 3, 2016 2:45 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/leading-uk-pm-candidates-differ-greatly-how-quickly-invoke-article-50#comments" title="Jump to the first comment of this posting.">11</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-8 views-row-even">
+      <article class="node node-type-story node-teaser node-nid-565070">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/celebrating-land-absurdity">Celebrating This Land Of Absurdity</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/celebrating-land-absurdity" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user3303/imageroot/20160703_absurd.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="134" /></a>    </div>
+    <span class="teaser-text">
+      <p>As far as we can tell,<strong> U.S. Treasury investors suffer the same cognitive dissonance that the broad U.S. populace takes with them to the shore each July 4th as they celebrate Independence.</strong> <em>They believe they live in the greatest country ever conceived.  They believe they experience more freedom, opportunity, and prosperity than their cohorts in other nations.  They believe their system of government provides for their representation</em>.<span><em><strong> Yet at the same time they sense that something’s off.</strong></em></span></p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565070 created=1467569700></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 2:15 PM">Jul 3, 2016 2:15 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/celebrating-land-absurdity#comments" title="Jump to the first comment of this posting.">26</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-9 views-row-odd">
+      <article class="node node-type-story node-teaser node-nid-565069">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/americas-soaring-gasoline-and-oil-demand-was-just-illusion-how-eia-fooled-algos">America&#039;s &quot;Soaring&quot; Gasoline And Oil Demand Was Just An Illusion: How The EIA Fooled The Algos </a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/americas-soaring-gasoline-and-oil-demand-was-just-illusion-how-eia-fooled-algos" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user5/imageroot/EIA teaser.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="130" /></a>    </div>
+    <span class="teaser-text">
+      <p><strong>"Could it be that the U.S. demand that's helped drive a near doubling of oil prices since mid-February was illusory?" </strong>That may be a reasonable conclusion to draw from the latest data published by the DOE.&nbsp; When looking at weekly figures<strong>, </strong>it looks like U.S. gasoline demand is soaring.  But the latest monthly data, showing the numbers for April, paint a very different picture.  They show U.S. gasoline consumption falling between March and April. "<strong>The discrepancy between the two sets of data that gives cause for concern."<br /></strong></p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565069 created=1467567936></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 1:45 PM">Jul 3, 2016 1:45 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/americas-soaring-gasoline-and-oil-demand-was-just-illusion-how-eia-fooled-algos#comments" title="Jump to the first comment of this posting.">25</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-10 views-row-even">
+      <article class="node node-type-story node-teaser node-nid-565071">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/muskmageddon-tesla-sales-tumble-miss-expectations-15">Muskmageddon? Tesla Sales Tumble, Miss Expectations By 15%</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/muskmageddon-tesla-sales-tumble-miss-expectations-15" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user3303/imageroot/20160703_TSLA.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="109" /></a>    </div>
+    <span class="teaser-text">
+      <p>On a sleep Sunday afternoon in the middle of a long weekend, <strong>Elon Musk decided to release Tesla sales and production data for Q2 2016</strong> and it is not pretty for the billionaire (and his corporate relations).</p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565071 created=1467567602></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 1:40 PM">Jul 3, 2016 1:40 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/muskmageddon-tesla-sales-tumble-miss-expectations-15#comments" title="Jump to the first comment of this posting.">46</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-11 views-row-odd">
+      <article class="node node-type-story node-teaser node-nid-565068">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/uncounted-true-story-california-primary">&quot;Uncounted!&quot; - The True Story Of The California Primary</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/uncounted-true-story-california-primary" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user3303/imageroot/20160703_uncounted.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="84" /></a>    </div>
+    <span class="teaser-text">
+      <p><em>“<strong>I can tell you this: Senator Sanders won California.</strong> Let me do the math for you. Most of those late mailed-in ballots were what are called NPP, No Party Preference. <strong>These independent ballots were the ones that came in late</strong> because people had to switch their ballots. It’s a complex process, in California, that’s all I can tell you. <strong>The late ballots are Sanders ballots</strong>.”</em></p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565068 created=1467566100></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 1:15 PM">Jul 3, 2016 1:15 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/uncounted-true-story-california-primary#comments" title="Jump to the first comment of this posting.">43</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-12 views-row-even">
+      <article class="node node-type-story node-teaser node-nid-565064">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/theres-no-place-called-transnationalprofessionalistan">Brexit &amp; The Arrogant Infallibility Of &quot;Experts&quot;</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/theres-no-place-called-transnationalprofessionalistan" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user3303/imageroot/20160703_bnw.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="137" /></a>    </div>
+    <span class="teaser-text">
+      <p><em>"Under the relentless thrust of accelerating over-population and increasing <strong>over-organization</strong>, and by means of ever more effective methods of mind-manipulation, the <strong>democracies will change their nature</strong>; the quaint old forms - elections, parliaments, Supreme Courts and all the rest - will remain. <strong>The underlying substance will be a new kind of non-violent totalitarianism</strong>."</em></p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565064 created=1467562555></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 12:15 PM">Jul 3, 2016 12:15 PM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/theres-no-place-called-transnationalprofessionalistan#comments" title="Jump to the first comment of this posting.">32</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-13 views-row-odd">
+      <article class="node node-type-story node-teaser node-nid-565063">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/man-critically-injured-central-park-explosion">Man Critically Injured In Central Park Explosion</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/man-critically-injured-central-park-explosion" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user5/imageroot/explosion CB.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="113" /></a>    </div>
+    <span class="teaser-text">
+      <p>A man was critically injured <a rel="nofollow" href="http://abc7ny.com/1411833/" rel="nofollow">according to ABC Eyewitness News </a>shortly  before noon on Sunday by some sort of explosive device, possibly a  firework device. The explosion took place inside Central Park near the  Fifth Avenue and East 62nd Street area, <a rel="nofollow" href="http://abc7ny.com/1411833/" rel="nofollow">ABC and </a>WCBS880  add. EMS confirms at 10:53 a.m, that they received a call of a major  injury at that location. The victim is being aided at the scene and has  yet to be transported.</p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565063 created=1467560729></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 11:45 AM">Jul 3, 2016 11:45 AM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/man-critically-injured-central-park-explosion#comments" title="Jump to the first comment of this posting.">43</a></li>
+</ul>      </section>
+</article>
+    </div>
+            <div class="views-row views-row-14 views-row-even">
+      <article class="node node-type-story node-teaser node-nid-565061">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/worrisome-probability-us-recession-surges-60-deutsche-calculates">This Is &quot;Worrisome&quot;: The Probability Of A US Recession Surges To 60%, Deutsche Calculates</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/worrisome-probability-us-recession-surges-60-deutsche-calculates" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user5/imageroot/db recession odds.jpg" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="142" /></a>    </div>
+    <span class="teaser-text">
+      <p><strong>"This relentless flattening of the curve is worrisome</strong>.  Given the historical tendency of a very flat or inverted yield curve to  precede a US recession, the odds of the next economic downturn are  rising. <strong>In our probit model, the probability of a  recession within the next 12 months has jumped to 60 percent, the  highest it’s been since August 2008."</strong></p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565061 created=1467558736></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 11:12 AM">Jul 3, 2016 11:12 AM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/worrisome-probability-us-recession-surges-60-deutsche-calculates#comments" title="Jump to the first comment of this posting.">38</a></li>
+</ul>      </section>
+</article>
+    </div>
+              <div id="ad-frontpage_bitgold" class="views-row ad-tablet"></div>
+        <div class="views-row views-row-15 views-row-odd views-row-last">
+      <article class="node node-type-story node-teaser node-nid-565058">
+  <h2 class="title teaser-title"><a href="/news/2016-07-03/chuck-todd-hillary-were-you-given-indication-no-fbi-charges-will-be-filed-against-yo">Chuck Todd To Hillary: &quot;Were You Given An Indication That No FBI Charges Will Be Filed Against You?&quot;</a></h2>
+  <section class="teaser-content">
+    <div class="teaser-image">
+      <a href="/news/2016-07-03/chuck-todd-hillary-were-you-given-indication-no-fbi-charges-will-be-filed-against-yo" class="imagecache imagecache-fp_thumb imagecache-linked imagecache-fp_thumb_linked"><img src="http://www.zerohedge.com/sites/default/files/imagecache/fp_thumb/images/user5/imageroot/20160703_clinton.JPG" alt="" title=""  class="imagecache imagecache-fp_thumb" width="200" height="102" /></a>    </div>
+    <span class="teaser-text">
+      <p><em><strong>Q. Chuck Todd: </strong></em>"There is some news reports  out there that indicate that no charges may be brought against you in a  final decision in a couple of weeks.&nbsp; <strong>Were you given that indication today that no charges would be filed and are you confident that no charges would be filed?"</strong></p>
+<p><strong><em>Clinton: </em>"Chuck, I am not going to comment on the process.<span> I have no knowledge, any timeline is entirely up to the department.</span></strong>"</p>
+
+
+    </span>
+  </section>
+  <section class="teaser-details">
+          <ul class="links inline"><li class="link-views first"><span title="Views"><span class="viewcounter" entityid=565058 created=1467555268></span></span></li>
+<li class="link-created"><span><span title="Jul 3, 2016 10:14 AM">Jul 3, 2016 10:14 AM</span></span></li>
+<li class="link-comments last"><a href="/news/2016-07-03/chuck-todd-hillary-were-you-given-indication-no-fbi-charges-will-be-filed-against-yo#comments" title="Jump to the first comment of this posting.">190</a></li>
+</ul>      </section>
+</article>
+    </div>
+        </div>
+  
+      <div class="item-list"><ul class="pager"><li class="pager-previous pager-disabled first"></li>
+<li class="pager-next last"><a href="/articles?page=1&amp;amp%3Bfeed_me=1mHCW2%20%20%3Ca%20href%3D%22http%3A%2Fwscmrrbtxevz.com%2F%22%3Ewscmrrbtxevz%3C%2Fa%3E%2C%20%5Burl%3Dhttp%3A%2Fvveohilrlyuh.com%2F%5Dvveohilrlyuh%5B%2Furl%5D%2C%20%5Blink%3Dhttp%3A%2Fsqej&amp;feed_me=Other%20Than%20%3Ca%20href%3D%22http%3A%2Fwww.garciniacambogiasupplement.website%2F%3Felement%3Dmpoawdn%22%3Egarcinia%20cambogia%3C%2Fa%3E%20with%20academic%2C%20%3Ca%20href&amp;form_build_id=form-pb8iAXyk_sl6fyMdJQ3rdrmOzIySQ8Vypj_XTMHt1t8&amp;form_id=user_login_block&amp;name=Bh" class="active">next &gt;</a></li>
+</ul></div>  
+  
+  
+  
+  
+</div>         </section>
+
+        <section id="sidebar-left">
+          <div id="ad-sidebarleft-top" class="ad-container ad-banner-vertical ad-show-text"></div>
+          <div class="block block-user" id="block-user-0">
+  <h2 class="title">User login</h2>  <div class="content"><form action="/articles?destination=articles"  accept-charset="UTF-8" method="post" id="user-login-form">
+<div><div class="form-item" id="edit-name-wrapper">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name" size="15" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-pass-wrapper">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<div class="item-list"><ul><li class="first"><a href="/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><input type="hidden" name="form_build_id" id="form-CjD3su0o4ZZ9IQpyfgRxnkG-9oYTe1dmvq8UQZl9hZw" value="form-CjD3su0o4ZZ9IQpyfgRxnkG-9oYTe1dmvq8UQZl9hZw"  />
+<input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+<div class="edit-feed-me-wrapper"><div class="form-item" id="edit-feed-me-wrapper">
+ <input type="text" maxlength="128" name="feed_me" id="edit-feed-me" size="20" value="" class="form-text" />
+ <div class="description">To prevent automated spam submissions leave this field empty.</div>
+</div>
+</div><input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+
+</div></form>
+</div></div>
+<div class="block block-menu" id="block-menu-secondary-links">
+  <h2 class="title">Zero Hedge Reads</h2>  <div class="content"><ul class="menu"><li class="leaf first"><a href="http://www.acting-man.com/" title="">Acting Man</a></li>
+<li class="leaf"><a href="http://www.alt-market.com" title="">Alt-Market</a></li>
+<li class="leaf"><a href="http://www.bearishnews.com/" title="">Bearish News</a></li>
+<li class="leaf"><a href="http://benzinga.com" title="">Benzinga</a></li>
+<li class="leaf"><a href="http://boombustblog.com/" title="">Boom Bust Blog</a></li>
+<li class="leaf"><a href="http://www.CapitalistExploits.at" title="">Capitalist Exploits</a></li>
+<li class="leaf"><a href="http://mpettis.com/" title="">China Financial Markets</a></li>
+<li class="leaf"><a href="http://www.peakprosperity.com/" title="">Chris Martenson&#039;s Blog</a></li>
+<li class="leaf"><a href="http://www.contraryinvestor.com" title="">Contrary Investor</a></li>
+<li class="leaf"><a href="http://www.creditwritedowns.com/" title="">Credit Writedowns</a></li>
+<li class="leaf"><a href="http://danericselliottwaves.blogspot.com/" title="">Daneric&#039;s Elliott Waves</a></li>
+<li class="leaf"><a href="http://dealbook.blogs.nytimes.com/" title="">DealBook</a></li>
+<li class="leaf"><a href="http://demonocracy.info/" title="">Demonocracy</a></li>
+<li class="leaf"><a href="http://www.doctorhousingbubble.com/" title="">Dr. Housing Bubble</a></li>
+<li class="leaf"><a href="http://www.etfdailynews.com" title="">ETF Daily News</a></li>
+<li class="leaf"><a href="http://www.etfdigest.com" title="">ETF Digest</a></li>
+<li class="leaf"><a href="http://econimica.blogspot.com" title="">Economica</a></li>
+<li class="leaf"><a href="http://www.firstrebuttal.com/" title="">First Rebuttal</a></li>
+<li class="leaf"><a href="http://forexlive.com" title="">ForexLive</a></li>
+<li class="leaf"><a href="https://www.fundist.com/" title="">Fundist</a></li>
+<li class="leaf"><a href="http://gainspainscapital.com/" title="">Gains Pains &amp; Capital</a></li>
+<li class="leaf"><a href="http://globaleconomicanalysis.blogspot.com/" title="">Global Economic Analysis</a></li>
+<li class="leaf"><a href="http://hedgeaccordingly.com/" title="">Hedge Accordingly</a></li>
+<li class="leaf"><a href="http://implode-explode.com/" title="">Implode-Explode</a></li>
+<li class="leaf"><a href="http://www.investingcontrarian.com/" title="">Investing Contrarian</a></li>
+<li class="leaf"><a href="http://jessescrossroadscafe.blogspot.com/" title="">Jesse&#039;s Cafe Americain</a></li>
+<li class="leaf"><a href="http://libertyblitzkrieg.com/" title="">Liberty Blitzkrieg</a></li>
+<li class="leaf"><a href="http://www.marketfolly.com/" title="">Market Folly</a></li>
+<li class="leaf"><a href="http://marketmontage.com/" title="">Market Montage</a></li>
+<li class="leaf"><a href="http://maxkeiser.com/" title="">Max Keiser</a></li>
+<li class="leaf"><a href="http://www.minyanville.com/" title="">Minyanville</a></li>
+<li class="leaf"><a href="http://mises.org/" title="">Mises Institute</a></li>
+<li class="leaf"><a href="https://mishtalk.com/" title="">Mish Talk</a></li>
+<li class="leaf"><a href="http://www.oftwominds.com/blog.html" title="">Of Two Minds</a></li>
+<li class="leaf"><a href="http://oilprice.com/" title="">Oil Price</a></li>
+<li class="leaf"><a href="http://schiffgold.com/news/" title="">Peter Schiff</a></li>
+<li class="leaf"><a href="http://RebootingCapitalism.com " title="">Rebooting Capitalism</a></li>
+<li class="leaf"><a href="http://shankystechblog.blogspot.com" title="">Shanky&#039;s Tech Blog</a></li>
+<li class="leaf"><a href="http://slopeofhope.com/" title="">Slope of Hope</a></li>
+<li class="leaf"><a href="https://www.smartknowledgeu.com/blog" title="">SmartKnowledgeU Blog</a></li>
+<li class="leaf"><a href="http://zirpqe.wordpress.com/" title="">StealthFlation</a></li>
+<li class="leaf"><a href="http://www.stratfor.com" title="">Stratfor</a></li>
+<li class="leaf"><a href="http://www.tfmetalsreport.com" title="TF Metals Report">TF Metals Report</a></li>
+<li class="leaf"><a href="http://www.theburningplatform.com/" title="">The Burning Platform</a></li>
+<li class="leaf"><a href="http://www.economicpopulist.org/" title="">The Economic Populist</a></li>
+<li class="leaf"><a href="http://www.thehammerstone.com/" title="">The Hammerstone Group</a></li>
+<li class="leaf"><a href="http://www.thetrader.se" title="">The Trader</a></li>
+<li class="leaf"><a href="http://vineyardsaker.blogspot.com/" title="">The Vineyard Of The Saker</a></li>
+<li class="leaf"><a href="http://www.themistrading.com/" title="">Themis Trading</a></li>
+<li class="leaf"><a href="http://truesinews.com/" title="">True Sinews</a></li>
+<li class="leaf"><a href="http://www.valuewalk.com" title="Value Walk">Value Walk</a></li>
+<li class="leaf"><a href="http://www.viewfromthebridge.co.uk/" title="">View From The Bridge</a></li>
+<li class="leaf last"><a href="http://wolfstreet.com/" title="Wolf Street">Wolf Street</a></li>
+</ul></div></div>
+          <div id="ad-sidebarleft-bottom" class="ad-container ad-banner-vertical ad-show-text"></div>
+        </section>
+
+        <section id="sidebar-right">
+          <div class="block block-zh_glue" id="block-zh_glue-custom_search">
+    <div class="content"><form accept-charset="UTF-8" action="/search/apachesolr_search/" class="search-form" id="search-form" method="post" size="28">
+    <div>
+        <input class="form-text" id="edit-keys-header" maxlength="255" name="keys" size="28" type="text" value="" placeholder="search zerohedge" /></div>
+    <input class="form-submit" id="edit-submit" size="32" type="submit" />
+</form>
+    <script src='http://ads.investingchannel.com/adtags/zerohedge/searchbx/88x31.js?kval=searchbx' type='text/javascript' charset='utf-8'></script>
+</div></div>
+          <div id="ad-sidebar-right_300-1" class="ad-container ad-box ad-show-text"></div>
+          <div class="block block-zh_glue" id="block-zh_glue-combo">
+    <div class="content"><div class="accordion">
+    <div class="tabBtn-hold">
+        <ul class="idTabs">
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#ctab1">RanSquawk News</a>
+            </li>
+            <div class="accordion-section-content" id="ctab1"><div class="view view-ran-squawk-feed view-id-ran_squawk_feed view-display-id-default view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://portal.ransquawk.com/headlines/closures-for-us-independence-day-holiday-monday-4th-july-desk-will-operate-as-normal-20_35pm_utc_01-07-2016">Closures for US Independence Day Holiday Monday 4th July; Desk will...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://portal.ransquawk.com/headlines/us-total-light-vehicle-sales-totaled-16-66mln-according-to-sources-01-07-2016">US total light vehicle sales totaled 16.66mln, according to sources</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://portal.ransquawk.com/headlines/audio-closed-for-the-week-the-desk-will-reopen-on-sunday-at-2200bst-or-on-monday-at-0630bst-for-our-european-session-01-07-2016">AUDIO CLOSED FOR THE WEEK, THE DESK WILL REOPEN ON SUNDAY AT 2200BST...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://portal.ransquawk.com/headlines/investors-file-a-lawsuit-against-banks-for-rate-manipulation-on-the-singapore-interbank-offered-rate-and-singapore-swap-offer-rate-according-to-sources-01-07-2016">Investors file a lawsuit against Banks for rate manipulation on the...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://portal.ransquawk.com/headlines/nyse-closing-imbalance-9-30-to-sell-in-the-djia-according-to-hammerstone-s-market-talk-forum-01-07-2016">NYSE closing imbalance - 9/30 to sell in the DJIA, according to...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://portal.ransquawk.com/headlines/fitch-affirms-belgium-at-aa-with-outlook-negative-01-07-2016">Fitch affirms Belgium at AA with outlook negative</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://portal.ransquawk.com/headlines/us-market-wrap-central-bank-reassurances-continue-to-buoy-markets-with-the-s-p-posting-its-fourth-day-of-gains-01-07-2016">US MARKET WRAP:  Central bank reassurances continue to buoy markets,...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://portal.ransquawk.com/headlines/cftc-speculators-cut-cbot-us-10y-treasury-futures-net-long-position-by-30-741-contracts-to-83-924-in-week-to-june-28-01-07-2016">CFTC speculators cut CBOT US 10y Treasury futures net long position...</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#ctab2">The Fly</a>
+            </li>
+            <div class="accordion-section-content" id="ctab2"><div class="view view-fly-on-the-wall view-id-fly_on_the_wall view-display-id-default view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-01 23:27: <a href="http://www.thefly.com/permalinks/entry.php/id2396047/AWK-California-American-Water-finalizes-application-with-CPUC-to-set-new-rates">California American Water finalizes application with CPUC to set new...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-01 23:27: <a href="http://www.thefly.com/permalinks/entry.php/id2396039/YHOO-Yahoo-CEO-Mayer-receives-over-M-votes-against-her-board-return">Yahoo CEO Mayer receives over 104M votes against her board return</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-01 23:27: <a href="http://www.thefly.com/permalinks/entry.php/id2396037/LMT;BA-United-Launch-Alliance-lays-off--employees-Reuters-reports">United Launch Alliance lays off 350 employees, Reuters reports</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-01 23:27: <a href="http://www.thefly.com/permalinks/entry.php/id2396036/RTN-Raytheon-awarded-M-government-contract-modification">Raytheon awarded $291.75M government contract modification</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-01 23:27: <a href="http://www.thefly.com/permalinks/entry.php/id2396035/BIND;PFE-BIND-Therapeutics-files-motion-for-sale-of-assets-after-accepting-Pfizer-bid">BIND Therapeutics files motion for sale of assets after accepting...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-01 23:27: <a href="http://www.thefly.com/permalinks/entry.php/id2396034/IVTY-Invuity-files-M-mixed-securities-shelf">Invuity files $100M mixed securities shelf</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-01 23:27: <a href="http://www.thefly.com/permalinks/entry.php/id2396033/GXP-KCPL-files-rate-increase-request-with-Missouri-Public-Service-Commission-">KCP&amp;L files rate increase request with Missouri Public Service...</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-01 23:27: <a href="http://www.thefly.com/permalinks/entry.php/id2396032/BLL;REXMY-Ball-sees-net-debt-of-roughly-B-at-closing-of-Rexam-acquisition">Ball sees net debt of roughly $7B at closing of Rexam acquisition</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#ctab3">Benzinga Pro</a>
+            </li>
+            <div class="accordion-section-content" id="ctab3"><div class="view view-bezinga-pro view-id-bezinga_pro view-display-id-default view-dom-id-1">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://www.benzinga.com/news/16/07/8178573/vse-corp-reports-jury-verdict-in-civil-litigation-matter-awarded-damages-of-4-8m?utm_campaign=partner_feed&amp;utm_source=zerohedge&amp;utm_medium=partner_feed&amp;utm_content=site">VSE Corp. Reports Jury Verdict in Civil Litigation Matter, Awarded Damages of ~$4.8M</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://www.benzinga.com/news/16/07/8178632/s-1-from-kinsale-insurance-shows-registration-for-100m-ipo?utm_campaign=partner_feed&amp;utm_source=zerohedge&amp;utm_medium=partner_feed&amp;utm_content=site">S-1 from Kinsale Insurance Shows Registration for $100M IPO</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://www.benzinga.com/fintech/16/07/8178266/these-were-the-top-10-trending-stocks-this-week?utm_campaign=partner_feed&amp;utm_source=zerohedge&amp;utm_medium=partner_feed&amp;utm_content=site">These were The Top 10 Trending Stocks This Week</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://www.benzinga.com/news/16/07/8177557/watsco-dividend-offers-2-4-yield?utm_campaign=partner_feed&amp;utm_source=zerohedge&amp;utm_medium=partner_feed&amp;utm_content=site">Watsco Dividend Offers 2.4% Yield</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://www.benzinga.com/news/16/07/8177653/alamo-group-dividend-provides-0-5-yield?utm_campaign=partner_feed&amp;utm_source=zerohedge&amp;utm_medium=partner_feed&amp;utm_content=site">Alamo Group Dividend Provides 0.5% Yield</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://www.benzinga.com/news/16/07/8177716/american-financial-group-pays-approximately-43-of-its-profit-as-dividend?utm_campaign=partner_feed&amp;utm_source=zerohedge&amp;utm_medium=partner_feed&amp;utm_content=site">American Financial Group Pays Approximately 43% Of Its Profit As Dividend</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://www.benzinga.com/news/16/07/8177892/option-alert-sweep-sell-hog-july-60-call-749-1-5-in-13-orders-3400-traded-oi-0?utm_campaign=partner_feed&amp;utm_source=zerohedge&amp;utm_medium=partner_feed&amp;utm_content=site">Option Alert: SWEEP (SELL) - HOG July $60 Call - 749 @ 1.5 in 13 orders. 3400 traded. OI: 0</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even views-row-last">
+      
+  <div class="views-field-url">
+                <span class="field-content">07-03 16:45: <a href="http://www.benzinga.com/news/16/07/8178027/sysco-acquires-supplies-on-the-fly-terms-not-disclosed?utm_campaign=partner_feed&amp;utm_source=zerohedge&amp;utm_medium=partner_feed&amp;utm_content=site">Sysco Acquires Supplies on the Fly, Terms Not Disclosed</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+        </ul>
+    </div>
+</div>
+</div></div>
+          <div class="block block-zh_glue" id="block-zh_glue-newsletter">
+    <div class="content"><script src="http://ads.investingchannel.com/adtags/zerohedge/zh_nl_registration/300x100.js" type="text/javascript" charset="utf-8"></script></div></div>
+          <div class="block block-zh_glue" id="block-zh_glue-ran">
+    <div class="content"><a href="http://zerohedge.talking-forex.com/"><img src="/sites/default/files/images/user6/imageroot/2011/08/live_commentary_button_big.png" width="290" height="90"/></a></div></div>
+          <div id="ad-sidebar-right_300-2" class="ad-container ad-box ad-show-text"></div>
+          <div class="block block-zh_glue" id="block-zh_glue-cab">
+    <div class="content"><div class="accordion">
+    <div class="tabBtn-hold">
+        <ul class="idTabs">
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#tab6">Contact Information</a>
+            </li>
+            <div class="accordion-section-content" id="tab6">
+                <div class="contact-block-content">
+                    <p>Tips: tips [ at ] zerohedge.com</p>
+                    <p>General: info [ at ] zerohedge.com</p>
+                    <p>Legal: legal [ at ] zerohedge.com</p>
+                    <p>Advertising: ads [ at ] zerohedge.com</p>
+                    <p>Abuse/Complaints: abuse [ at ] zerohedge.com</p>
+                    <p><a href="http://orders.zerohedge.com/">Advertise With Us</a></p>
+                </div>
+            </div>
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#tab7">Suggested Reading</a>
+            </li>
+            <div class="accordion-section-content" id="tab7">
+                <div class="contact-block-content">
+                    <p><em>Make sure to read our &quot;<a href="/help/how-readtip-zero-hedge-without-attracting-interest-human-resourcesthe-treasuryblack-helicopt">How To [Read/Tip Off] Zero Hedge Without Attracting The Interest Of [Human Resources/The Treasury/Black Helicopters]</a>&quot; Guide</em></p>
+                    <p>It would be very wise of you to study our <a href="/help/disclaimer">disclaimer</a>, our <a href="/node/12342">privacy policy </a>and our (non)policy on <a href="/node/13972">conflicts / full disclosure</a>. Here&#39;s our <a href="http://www.zerohedge.com/cookie-policy">Cookie Policy</a>.&nbsp;</p>
+                    <p>&nbsp;</p>
+                    <p><a href="http://www.zerohedge.com/help/report-offensive-comments">How to report offensive comments</a></p>
+                    <p><a href="http://www.zerohedge.com/help/notice-racism">Notice on Racial Discrimination</a>.&nbsp;</p>
+                </div>
+            </div>
+    </div>
+</div></div></div>
+          <div id="ad-sidebar-right_bitgold" class="ad-container ad-box"></div>
+          <div class="block block-zh_glue" id="block-zh_glue-recent">
+    <div class="content"><div class="accordion">
+    <div class="tabBtn-hold">
+        <ul class="idTabs">
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#tab3">New Comments</a>
+            </li>
+            <div class="accordion-section-content" id="tab3"><div class="view view-most-recent-comments-block view-id-most_recent_comments_block view-display-id-default view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:48: <a href="/news/2016-07-02/un-official-accidentally-crushes-own-throat-right-testifying-against-hillary-clinton#comment-7770910">not as bad as scalia&#039;s phoned</a> (<a href="/users/jeff-montanye" title="View user profile.">jeff montanye</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:47: <a href="/news/2016-07-03/religion-peace#comment-7770909">Banbait #340
+Looks like</a> (<a href="/users/isawthattoo" title="View user profile.">ISawThatToo</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:46: <a href="/news/2016-07-03/edward-snowden-summarizes-americas-choices-one-tweet#comment-7770908">D Trump at least has</a> (<a href="/users/able-ape" title="View user profile.">Able Ape</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:45: <a href="/news/2016-07-03/edward-snowden-summarizes-americas-choices-one-tweet#comment-7770907">Ah, the double agent</a> (<a href="/users/navy62802" title="View user profile.">navy62802</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:45: <a href="/news/2016-07-03/senator-admits-fbi-about-ask-putin-his-copies-hillarys-emails#comment-7770906">The NSA has copies of all the</a> (<a href="/users/bankonzhongguo" title="View user profile.">bankonzhongguo</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:45: <a href="/news/2016-07-03/senator-admits-fbi-about-ask-putin-his-copies-hillarys-emails#comment-7770899">This same Jooish senator</a> (<a href="/users/reader2010" title="View user profile.">reader2010</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:45: <a href="/news/2016-07-03/edward-snowden-summarizes-americas-choices-one-tweet#comment-7770905">I refuse to talk to Hillary</a> (<a href="/users/swamp" title="View user profile.">swamp</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:45: <a href="/news/2016-07-03/religion-peace#comment-7770904">It&#039;s not the jews. Abraham</a> (<a href="/users/neil-patrick-harris" title="View user profile.">Neil Patrick Harris</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:44: <a href="/news/2016-07-03/it-was-earthquake-over-91-killed-after-two-isis-suicide-bombings-rip-through-baghdad#comment-7770903">A substantial number are</a> (<a href="/users/howdydoody" title="View user profile.">HowdyDoody</a>)</span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field-timestamp">
+                <span class="field-content">07-03 16:44: <a href="/news/2016-07-03/senator-admits-fbi-about-ask-putin-his-copies-hillarys-emails#comment-7770902">the usa has no enemies,</a> (<a href="/users/blindman" title="View user profile.">blindman</a>)</span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+            <li class="tabBtn">
+                <a class="accordion-section-title" href="#tab5">Today's Top Stories</a>
+            </li>
+            <div class="accordion-section-content" id="tab5"><div class="view view-most-popular-posts-today view-id-most_popular_posts_today view-display-id-default view-dom-id-2">
+    
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">274,091 - <a href="/news/2016-07-01/kyle-bass-shares-stunning-thing-central-banker-once-told-him">Kyle Bass Shares The &quot;Stunning&quot; Thing A Central Banker Once Told Him</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">270,458 - <a href="/news/2016-07-02/un-official-accidentally-crushes-own-throat-right-testifying-against-hillary-clinton">U.N. Official &#039;Accidentally&#039; Crushes Own Throat Right Before Testifying Against Hillary Clinton</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">83,982 - <a href="/news/2016-07-02/hillary-cracks-gives-fbi-voluntary-three-hour-interview-over-private-email-server">Hillary Cracks, Gives FBI A &quot;Voluntary&quot; Three Hour Interview Over Private Email Server</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">63,168 - <a href="/news/2016-07-02/how-spot-false-flag-event">How To Spot A False Flag Event</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">42,614 - <a href="/news/2016-07-03/senator-admits-fbi-about-ask-putin-his-copies-hillarys-emails">Senator Admits The FBI Is &quot;About To Ask Putin For His Copies Of Hillary&#039;s Emails&quot;</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">40,703 - <a href="/news/2016-07-02/capitulation-phase-why-treasury-yields-are-about-really-plunge">&quot;This Is The Capitulation Phase&quot; - Why Treasury Yields Are About To Really Plunge</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">36,325 - <a href="/news/2016-07-03/chuck-todd-hillary-were-you-given-indication-no-fbi-charges-will-be-filed-against-yo">Chuck Todd To Hillary: &quot;Were You Given An Indication That No FBI Charges Will Be Filed Against You?&quot;</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">33,599 - <a href="/news/2016-07-02/morgan-stanley-explains-one-big-reason-why-central-planners-cant-generate-any-inflat">Morgan Stanley Explains One Big Reason Why Central Planners Can&#039;t Generate Any Inflation</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">30,480 - <a href="/news/2016-07-02/read-if-you-still-think-political-polls-mean-anything">Read This If You Still Think Political Polls Mean Anything</a></span>
+  </div>
+  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field-fuzzedcount">
+                <span class="field-content">19,217 - <a href="/news/2016-07-02/nypd-prepared-war-isis">NYPD Is Prepared For War With ISIS</a></span>
+  </div>
+  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div> </div>
+        </ul>
+    </div>
+</div></div></div>
+          <div id="ad-sidebar-right_300-3" class="ad-container ad-box"></div>
+          <div id="ad-sidebar-right_300-smartlinks" class="ad-container ad-sticky"></div>
+        </section>
+
+      </main>
+
+      <footer id="footer">
+        <div id="footer-region">
+          <div id="ad-footer" class="ad-container ad-banner-horizontal"></div>
+                    <div class="footer-section">
+            <a href="/help/notice-racism">Discrimination Notice</a>
+            <a href="/cookie-policy">Cookie Policy</a>
+          </div>
+          <div class="footer-section">
+            <div>Copyright &copy;2009-2016 ZeroHedge.com/ABC Media, LTD</div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+      <script type="text/javascript" src="/arrowchat/external.php?type=djs" charset="utf-8"></script>
+    <script type="text/javascript" src="/arrowchat/external.php?type=js" charset="utf-8"></script>
+    <div id="user_relationships_popup_form" class="user_relationships_ui_popup_form"></div></body>
+</html>
